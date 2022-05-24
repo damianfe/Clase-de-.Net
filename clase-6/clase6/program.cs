@@ -1,3 +1,6 @@
+// see https://aka.ms/new-console-template for more information
+console.WriteLine();
+
 //Diferencia entre declaración implícita (var) y explícita (int u otro tipo de dato)
 
 /* aquí comienza el comentario
